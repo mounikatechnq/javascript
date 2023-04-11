@@ -1,0 +1,10 @@
+*{
+    margin-top: 20px;
+}
+body{
+    background-color: cadetblue;
+    background-image: url('contact1.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
